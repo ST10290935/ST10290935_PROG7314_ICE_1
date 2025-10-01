@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216985741409",
+    "project_id": "snakegame-eaff5",
+    "storage_bucket": "snakegame-eaff5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216985741409:android:79a620cb04beda63016220",
+        "android_client_info": {
+          "package_name": "com.example.snake2025"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGd-A_ywcmBbigMqCG4gtr2UAcIrMCqp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
